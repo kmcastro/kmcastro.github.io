@@ -1,4 +1,41 @@
-h1
-{
- color: red;
+body {
+    padding-top: 25px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+a {
+    color: black;
+}
+
+.row{
+    padding-bottom: 20px;
+}
+
+#nav, #nav .row{
+    padding-bottom: 0px;
+}
+
+.card{
+    padding: 10px;
+    margin-top: 40px;
+}
+
+.cardImage {
+    height: 400px;
+    overflow: hidden;
+}
+
+.card img {
+    min-height: 400px;
+    min-width: 400px;
+    width: 100%;
+}
+
+.detail img {
+    width: 100%;
+}
+
+.darkBG img {
+    background-color: black;
 }
