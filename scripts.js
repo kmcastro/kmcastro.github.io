@@ -137,7 +137,7 @@ window.onload = function () {
                         '<img src="images/webPics/ui_class/sitemap.png" alt="sitemap" />'+
                     '</div>'+
                 '</div>'+
-                '<div class="row">'+
+                '<div class="col-sm-12">'+
                     '<img src="images/webPics/ui_class/mobileMap.png" alt="mobile map with added content" />'+
                 '</div>'+
             '</div>'+
